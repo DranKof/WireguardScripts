@@ -1,10 +1,8 @@
 # WireguardScripts
- Wireguard client and server setup semi-automation
+Wireguard client and server setup semi-automation
 
-For a school project I'm working on.
+It was for a school project that I was working on.
 
-This is intended to speed up most types of basic configurations.
+Because we changed directions with the focus they were not completed but the key script, the server setup script, should work just fine.
 
-Secondly, it should facilitate basic post-configuration processes.
-
-Time-permitting, maybe basic smart-meshing will work its way into the process.
+This is intended to speed up most types of basic configuration.
